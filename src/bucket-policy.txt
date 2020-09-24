@@ -8,7 +8,7 @@
                 "AWS": "*"
             },
             "Action": "s3:GetObject",
-            "Resource": "arn:aws:s3:::password-generator-webapp/*"
+            "Resource": "arn:aws:s3:::text-to-speech-webapp/*"
         }
     ]
 }
